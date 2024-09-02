@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chih Ying!</h1>
-<h3 align="center">A passionate AI/ML developer</h3>
+<h3 align="center">Focused and driven MLOps practitioner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eatpizza311&label=Profile%20views&color=0e75b6&style=flat" alt="eatpizza311" /> </p>
 
