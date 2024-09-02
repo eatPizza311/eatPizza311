@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Chih Ying!</h1>
-<h3 align="center">Focused and driven MLOps practitioner</h3>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="waving hand">, I'm Chih Ying!</h1>
+<h3 align="center">Data/ML Engineer & Focused MLOps practitioner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eatpizza311&label=Profile%20views&color=0e75b6&style=flat" alt="eatpizza311" /> </p>
 
-<img align="right" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="150" />
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczB6OWQzdDZzMTYzODIybDBsNmM0NG16cWg3c3d4ZXBkN21uNTN4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="150" />
 
-- 🌱 I’m currently learning **stuff about MLOps**
+- 🌱 I’m currently learning **Oxidize MLOps (Using Rust🦀)**
 
 - 📝 I regularly write articles on [iThome](https://ithelp.ithome.com.tw/users/20141304/articles)
 
 - 📫 How to reach me **spacetime0311@gmail.com**
 
-- 🌐 See my personal website [here](https://eatpizza311.github.io/)
+- 🌐 See my portfolio website [here](https://eatpizza311.github.io/)
 
 - ⚡ Fun fact **I love pizza!**
 
